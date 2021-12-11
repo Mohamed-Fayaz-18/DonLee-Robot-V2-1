@@ -174,7 +174,7 @@ async def get_all(client, message):
     texts = await get_filters(grp_id)
     count = await count_filters(grp_id)
     if count:
-        filterlist = f"Total number of filters in **{title}** : {count}\n\n@Mo_Tech_YT"
+        filterlist = f"Total number of filters in **{title}** : {count}\n\n@KOT_BOTS"
         for text in texts:
             keywords = " ×  `{}`\n".format(text)            
             filterlist += keywords
