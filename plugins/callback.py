@@ -329,12 +329,12 @@ async def cb_handler(client, query):
         await query.message.edit_text(Translation.SOURCE_TEXT, reply_markup=InlineKeyboardMarkup(
                [
                    [
-                       InlineKeyboardButton('☢️Frok', url='https://github.com/PR0FESS0R-99/DonLee-Robot-V2/fork'),
-                       InlineKeyboardButton('🌟Star', url='https://github.com/PR0FESS0R-99/DonLee-Robot-V2/stargazers')
+                       InlineKeyboardButton('☢️CHANNEL', url='https://t.me/KOT_BOTS'),
+                       InlineKeyboardButton('🌟SUPPORT', url='https://t.me/KOT_REPORS')
                    ],
                    [
-                       InlineKeyboardButton('🏵Repo', url='https://youtu.be/NrbMc93aCzA'),
-                       InlineKeyboardButton('🧩Deplow', url='https://youtu.be/NrbMc93aCzA')
+                       InlineKeyboardButton('🏵SOURCE', url='https://t.me/KOT_SOURCE_CODE'),
+                       InlineKeyboardButton('🧩Deploy', url='https://t.me/KOT_SOURCE_CODE')
                    ],
                    [
                        InlineKeyboardButton("🔙 Back 🔙", callback_data="help")
@@ -381,8 +381,8 @@ async def cb_handler(client, query):
                        InlineKeyboardButton("Use", url="https://github.com/bughunter0/ban-bot")
                    ],
                    [
-                       InlineKeyboardButton("Pr0fess0r-99", url="https://github.com/Pr0fess0r-99"),
-                       InlineKeyboardButton("Use", url="https://github.com/Pr0fess0r-99/Auto-Welcome-Bot")
+                       InlineKeyboardButton("Pr0fess0r-99", url="https://github.com/KOT-BOTS-REPO"),
+                       InlineKeyboardButton("Use", url="https://github.com/KOT-BOTS-REPO")
                    ],
                    [
                        InlineKeyboardButton("EvamariaTG", url="https://github.com/EvamariaTG"),
@@ -410,8 +410,8 @@ async def cb_handler(client, query):
                        InlineKeyboardButton("Use", url="https://github.com/bughunter0/ban-bot")
                    ],
                    [
-                       InlineKeyboardButton("Pr0fess0r-99", url="https://github.com/Pr0fess0r-99"),
-                       InlineKeyboardButton("Use", url="https://github.com/Pr0fess0r-99/Auto-Welcome-Bot")
+                       InlineKeyboardButton("Pr0fess0r-99", url="https://github.com/KOT-BOTS-REPO"),
+                       InlineKeyboardButton("Use", url="https://github.com/KOT-BOTS-REPO")
                    ],
                    [
                        InlineKeyboardButton("EvamariaTG", url="https://github.com/EvamariaTG"),
