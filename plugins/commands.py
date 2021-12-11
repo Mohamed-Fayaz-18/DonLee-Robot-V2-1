@@ -142,7 +142,7 @@ async def about(bot, message):
                              ),
                          InlineKeyboardButton
                              (
-                                 "Dev 🤠", callback_data="devmuhammed"
+                                 "Dev 🤠", callback_data="Kot_bots"
                              )
                     ],
                     [
@@ -171,23 +171,23 @@ async def sub(bot, message):
                     [
                          InlineKeyboardButton
                              (                                 
-                                 "📣Group", url="t.me/mo_tech_group"
+                                 "📣Group", url="https://t.me/KOT_REPORS"
                              ),
                          InlineKeyboardButton
                              (
-                                 "📢Channel", url="t.me/mo_tech_yt"
+                                 "📢Channel", url="https://t.me/KOT_BOTS"
                              )
                     ],
                     [
                          InlineKeyboardButton
                              (
-                                 "😟 Build a New Bot 😟", url="https://youtu.be/NrbMc93aCzA"
+                                 "😟 Build a New Bot 😟", url="https://t.me/KOT_SOURCE_CODE"
                              )
                     ],
                     [
                          InlineKeyboardButton
                              (
-                                 "💥Subscribe youtube Channel💥", url="https://www.youtube.com/c/MoTech_YT"
+                                 "💥Subscribe youtube Channel💥", url="https://youtube.com/channel/UCWBJ4ZVNc4kWoZKp5Y-byHA"
                              )
                     ],
                     [
