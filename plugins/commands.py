@@ -80,7 +80,7 @@ async def start(bot, message):
         caption=Translation.START_TEXT.format(
                 message.from_user.mention, DEV_USERNAME),
         reply_markup=InlineKeyboardMarkup([[
-              InlineKeyboardButton('➕ Add Me To Your Groups ➕', url='https://t.me/KOT_FILE_TO_LINK_BOT?startgroup=true')
+              InlineKeyboardButton('➕ Add Me To Your Groups ➕', url='https://t.me/KOT_MOVIES_FILTER_BOT?startgroup=true')
               ],[
               InlineKeyboardButton(GROUP, url=HAAAAAAAAA),
               InlineKeyboardButton(CHANNEL, url=CHANNEL_LINK)
