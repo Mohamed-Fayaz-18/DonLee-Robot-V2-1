@@ -6,7 +6,23 @@ class Translation(object):
 𝗝𝗨𝗦𝗧 𝗔𝗗𝗗 𝗠𝗘 𝗧𝗢 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣 𝗪𝗜𝗧𝗛 𝗔𝗗𝗠𝗜𝗡 𝗥𝗜𝗚𝗛𝗧𝗦 𝗔𝗡𝗗 𝗘𝗡𝗝𝗢𝗬 𝗪𝗜𝗧𝗛 𝗠𝗔𝗡𝗬 𝗠𝗢𝗥𝗘 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦😍 
 
 👨‍💻 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 : \n\ᴇ𝗩ᴇ𝗟ᴏ𝗣ᴇ𝗥 : <a href="https://t.me/KOT_BOTS">Kᴏᴛ Bᴏᴛs</a> & <a href="https://t.me/KOT_FREE_DE_LA_HOYA_OFF">ҜᴏT ҒʀΣᴇ ᴅΣ ʟΔ ʜΩyΔ ᴏҒꜰ</a>"""       
-    ABOUT_TEXT = """📃Bot : <a href="t.me/KOT_MOVIES_FILTER_BOT">Tʜᴀʟᴀᴘᴀᴛʜʏ Vɪᴊᴀʏ</a>\n🧒Dev : <a href="t.me/KOT_FREE_DE_LA_HOYA_OFF">ҜᴏT ҒʀΣᴇ ᴅΣ ʟΔ ʜΩyΔ ᴏҒꜰ</a>\n🧒Creator : <a href="t.me/KOT_BOTS">Kᴏᴛ Bᴏᴛs</a>\n📡Hosted On : <a href="https://heroku.com/">Hᴇʀᴏᴋᴜ</a>\n🗣️Language : <a href="https://docs.pyrogram.org">PYROGRAM</a>\n📚Library : <a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a>\n🗒️Version : <a href="t.me/KOT_MOVIES_FILTER_BOT">2.9.0</a>\n📖Source Code : 🤐"""
+    ABOUT_TEXT = """╭──────[@KOT_BOTS]───────〄
+│
+├ Nᴀᴍᴇ : <a href='https://t.me/KOT_MOVIES_FILTER_V2_BOT'>Tʜᴀʟᴀᴘᴀᴛʜʏ Vɪᴊᴀʏ V2</a>
+│
+├ Sᴇʀᴠᴇʀ : <a href='https://heroku.com/'>Hᴇʀᴏᴋᴜ</a>
+│ 
+├ Lᴀɴɢᴜᴀɢᴇ : <a href='https://docs.pyrogram.org/'>Pʏᴛʜᴏɴ 3.9.6</a>
+│
+├ Vᴇʀꜱɪᴏɴ : <a href='https://t.me/KOT_MOVIES_FILTER_BOT'>1.5.0 Bᴇᴛᴀ</a>
+│
+├ Fʀᴀᴍᴇᴡᴏʀᴋ : <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ 1.2.9</a>
+│
+├ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/KOT_FREE_DE_LA_HOYA_OFF'>✯°• Kᴏᴛ Fʀᴇᴇ Dᴇ Lᴀ Hᴏʏᴀ Oғғ °•✯ | ✪ Bᴏᴛs CʀᴇᴀᴛᴏR ✪</a>
+│
+├ Pᴏᴡᴇʀᴇᴅ Bʏ : <a href='https://t.me/KOT_LINKS_TEAM'>Kᴏᴛ Lɪɴᴋs Tᴇᴀᴍ</a>
+│
+├ Uᴘᴅᴀᴛᴇᴅ Oɴ : [ 18.11.2021 ] 06:39 PM"""
     FSUB_TEXT = """ഹേയ് {} തായേ കാണുന്ന ചാനലിൽ നിങ്ങൾ ഇല്ല അത് കൊണ്ട് നിങ്ങൾക് സിനിമ കിട്ടില്ല...\nസിനിമ കിട്ടാനായി താഴെ കാണുന്ന 🔔 Join എന്ന ബട്ടനിൽ ക്ലിക്ക് ചെയ്തു ഞങ്ങളുടെ മെയിൻ ചാനലിൽ ജോയിൻ ചെയ്യുക എങ്കിൽ മാത്രമേ നിങ്ങൾക്ക് മൂവി ഈ ബോട്ട് വഴി ലഭിക്കുകയുള്ളു. അതു കഴ്ഞ്ഞു തായേ കാണുന്ന 👉"Try again"👈 എന്നുള്ളതിൽ ക്ലിക്ക് ചെയ്തു Start കൊടുത്താൽ നിങ്ങൾക്ക് മൂവി കിട്ടുന്നതാണ്.😁"""
     FILTER_TEXT = """<b><u>Manual Filter</u></b>\n\n• Add me as admin in your group and start filtering:\n\n<b><u>NOTE:</u></b>\n\n1. DonLee should have admin privillage.\n2. only admins can add filters in a chat.\n3. alert buttons have a limit of 64 characters.\n\n<b><u>Commands and Usage:</u></b>\n• /addfilter - Add filter for name\n• /filters - List all filters in chat\n• /delfilters - Delete filter\n• /delallfilters - Delete entire filters (Group Owner Only!) @KOT_BOTS"""
     AUTOFILTER_TEXT = """<b><u>Auto Filter</u></b>\n\n<b><u>🤖 Bot Commands 🤖</u></b>\n  <code>(Works Only In Groups):</code>\n\n<b><u>Add CMD</u></b>\n  ☞ <code>/addchannel</code> <b>chat_id</b>\n  ☞ <code>/addchannel</code> <b>@KOT_BOTS</b>\n<b>- To Connect A Group With A Channel (Bot Should Be Admin With Full Previlages In Both Group And Channel)</b>\n\n<b><u>Deleted CMD</u></b>\n  ☞ <code>/delchannel</code> <b>chat_id</b>\n  ☞ <code>/delchannel</code> <b>@KOT_BOTS</b>\n<b>- To disconnect A Group With A Channel</i></b> @KOT_BOTS"""
@@ -20,4 +36,4 @@ class Translation(object):
     SUB_TEXT = """ID YOU ARE INTERST IN MAKE THIS BOT CONTACT : @KOT_SOURCE_CODE"""
     SPELLING_TEXT = """Hey {} Check Your Spelling PUT ONLY MOVIE NAME CORRECT"""
     STATUS_TEXT = """<b><u>Bot Status</u></b>\nTotal Users <b>{}</b> @KOT_BOTS"""
-    SOURCE_TEXT = """<b><u>🥳 Tʜᴀʟᴀᴘᴀᴛʜʏ Vɪᴊᴀʏ SOURCE CODE</b></u>\n\n📦 REPOSITORY :- https://t.me/KOT_SOURCE_CODE\n📺 FOLLOW ON YOUTUBE :- https://youtube.com/channel/UCWBJ4ZVNc4kWoZKp5Y-byHA\n\n👩‍👩‍👧‍👧 DEVELOPER TEAM <a href="https://t.me/KOT_DEVELOPERS">KOT DEVELOPES</a>"""
+    SOURCE_TEXT = """<b><u>🥳 Tʜᴀʟᴀᴘᴀᴛʜʏ Vɪᴊᴀʏ V2 SOURCE CODE</b></u>\n\n📦 REPOSITORY :- https://t.me/KOT_SOURCE_CODE\n📺 FOLLOW ON YOUTUBE :- https://youtube.com/channel/UCWBJ4ZVNc4kWoZKp5Y-byHA\n\n👩‍👩‍👧‍👧 DEVELOPER TEAM <a href="https://t.me/KOT_DEVELOPERS">KOT DEVELOPES</a>"""
